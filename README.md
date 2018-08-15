@@ -1,6 +1,6 @@
 # Zeplin React Native (typescript) Extension
 
-Generates react native snippets for colors, text and layout styles.
+Generates react native snippets for colors, text and layout styles. This template was generated from zeplin's react native extensions based on javascript found [here](https://github.com/zeplin/react-native-extension)
 
 ## Samples
 
